@@ -49,4 +49,4 @@ google-analytics:
 
 exclude: ['package.json', 'src' , 'node_modules']
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
